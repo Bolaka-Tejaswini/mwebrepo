@@ -8,6 +8,7 @@
 
  <h3> This Application has been executes with jenkins file </h3>
 <h4> hello world </h4>
+ </center>
 
        
 
